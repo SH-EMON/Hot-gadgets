@@ -1,0 +1,104 @@
+.container{
+    margin-bottom:100px;
+}
+.header{
+    background-color: #fff;
+    height:100px;
+    margin-top:20px;
+}
+.nav-link{
+    color:#898989;
+}
+.slider_part{
+    background-color:#fff;
+    margin-top:20px;
+}
+.carousel-indicators li{
+    background-color: orange;
+}
+.slider_left{
+    height:100%;
+}
+.slider_left h1{
+    color:#000;
+    font-weight:bold;
+    font-size:40px;
+}
+.slider_left p{
+    color:#9C9C9C;
+    padding-top:5px;
+}
+.buy_button{
+    background-color:#000;
+    color:#fff;
+    padding:10px 20px;
+    border-radius:10px;
+    margin:5px
+}
+.sphone_area{
+    margin-bottom:50px;
+}
+.see_all{
+    color:#FF9D00;
+}
+.sphone{
+    font-weight:bold;
+}
+.card-body{
+    text-align:center;
+}
+.card-body h5{
+    font-weight:bold;
+}
+.card-body h6{
+    font-weight:bold;
+}
+.card-body p{
+    color:#909090;
+}
+.card{
+    border:none;
+    box-shadow: 5px 5px 8px lightgray;
+}
+.categories{
+    width:150px;
+    border-bottom:5px solid orange;
+    margin:0 auto;
+}
+.bag{
+    width:200px;
+    background: #fff;
+    padding: 25px 33px;
+    box-shadow: 2px 2px 20px lightgrey;
+    margin-bottom: 15px;
+}
+.bag figcaption{
+    text-align:center;
+    padding-top:10px;
+    font-weight:bold;
+}
+.perfume{
+    width:200px;
+    background: #fff;
+    padding: 20px 30px;
+    box-shadow: 2px 2px 20px lightgrey;
+    margin-bottom: 20px;
+}
+.perfume figcaption{
+    text-align:center;
+    padding-top:10px;
+    font-weight:bold;
+}
+.shoe{
+    width:200px;
+    background: #fff;
+    padding: 25px 30px;
+    box-shadow: 2px 2px 20px lightgrey;
+}
+.shoe figcaption{
+    text-align:center;
+    font-weight:bold;
+}
+.order img{
+    width:100%;
+}
